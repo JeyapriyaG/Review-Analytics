@@ -293,6 +293,7 @@ python app.py
 ---
 
 💡 Made with ❤️ by **Jeya Priya G**
+
 ⚠️ *Educational purpose only – respect Amazon’s ToS.*
 
 ---
